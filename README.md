@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Enrolled student :student: at [Heilbronn University](https://www.hs-heilbronn.de/), pursuing a degree :mortar_board: in [Applied Computer Science (Angewandte Informatik)](https://www.hs-heilbronn.de/de/ai). 
+
+Passionate about agile software and system development. Excited to contribute to innovative projects. :heart_on_fire:
+
+Proficient in Git, Jira, Confluence, RESTful web services, and MariaDB. Skilled in multiple programming languages. Experienced in collaborating with diverse teams and embracing new challenges. :man_technologist:
+
+Currently preparing for a 6-month internship in software development. Let's build something amazing together! :handshake:
+
 <!--
 **julianertle/julianertle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
