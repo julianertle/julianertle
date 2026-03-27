@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Updating description... come back and check it in a few days!
+
 Enrolled student :student: at [Heilbronn University](https://www.hs-heilbronn.de/), pursuing a degree :mortar_board: in [Applied Computer Science (Angewandte Informatik)](https://www.hs-heilbronn.de/de/ai). 
 
 Passionate about agile software and system development. Excited to contribute to innovative projects. :heart_on_fire:
